@@ -5,12 +5,12 @@
     "collection_id": "spedmann_1",
     "attributes": [
         {
-            "trait_type": "foo",
+            "trait_type": "<p style=\"color:red\">HI</p>",
             "value": "foofoo"
         },
         {
             "trait_type": "Bar",
-            "value": "barbar"
+            "value": "barbar<!--"
         }
     ]
 }
