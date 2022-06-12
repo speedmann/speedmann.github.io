@@ -1,0 +1,16 @@
+{
+    "name": "Fake NFT #1736",
+    "description": "This is the best fake nft you will see all day (No.: 1736",
+    "collection_name": "Fancy Fake NFT #1",
+    "collection_id": "spedmann_1",
+    "attributes": [
+        {
+            "trait_type": "foo",
+            "value": "foofoo"
+        },
+        {
+            "trait_type": "Bar",
+            "value": "barbar"
+        }
+    ]
+}
