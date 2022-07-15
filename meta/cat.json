@@ -1,0 +1,1 @@
+{"name": "Cat NFT", "description": "webp test", "minting_tool": "Marmotverse NFT Minting Tool", "sensitive_content": false, "attributes": [], "collection": {"name": "WEBP Test", "id": "bb46a2c7-46a9-4728-a21e-33d3cc0f5384", "attributes": [{"type": "description", "value": "testing webp"}]}, "format": "CHIP-0007"}
